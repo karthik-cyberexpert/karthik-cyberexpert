@@ -1,21 +1,185 @@
-# 💫 About Me:
-I'm a dedicated developer focused on building modern web experiences, solving real-world problems, and continuously improving my skills in both front-end and back-end technologies. I also enjoy exploring areas of security and collaborative tech projects.<br><br>🔭 What I Do<br><br>🚀 Full-stack & Frontend Web Development<br><br>🛡️ Cybersecurity fundamentals & awareness<br><br>💻 Project structuring, teamwork & collaboration<br><br>📦 Building real projects, learning new frameworks<br><br>🤝 Open-source contribution and community learning
+# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Karthik+KN;Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Building+Projects+That+Matter+%E2%9C%A8;Open+Source+Learner+%F0%9F%8C%8D" alt="Typing SVG" />
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_itz_karthik_here) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeyan-s-531944397) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itzkarthik.cyber@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0F1F,50:00E5FF,100:6C63FF&text=KARTHIK%20KN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karthik-cyberexpert&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=karthik-cyberexpert&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-cyberexpert&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=karthik-cyberexpert&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karthik-cyberexpert&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌌 About Me
+
+```yaml
+Name: Karthik KN
+Role: Full Stack Developer
+Focus:
+  - Frontend Engineering
+  - Backend Development
+  - Cybersecurity Fundamentals
+  - Open Source Learning
+  - Scalable Project Architecture
+
+Current Goal:
+  Building impactful projects while continuously
+  improving development and security skills.
+
+Motto:
+  "Build. Secure. Learn. Repeat."
+```
+
+---
+
+# 🚀 Current Journey
+
+* 🌱 Learning modern web frameworks
+* 🔐 Exploring cybersecurity best practices
+* 💡 Building real-world projects
+* 🤝 Collaborating with developers
+* 🌍 Contributing to open-source communities
+
+---
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,python,mysql,mongodb,git,github,vscode,linux,bash&perline=8"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/karthik-cyberexpert">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthik-cyberexpert&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-cyberexpert&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=karthik-cyberexpert&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik-cyberexpert&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=karthik-cyberexpert&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# ⚡ Developer Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthik-cyberexpert&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/karthik-cyberexpert/karthik-cyberexpert/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> Configure a GitHub Action later to generate this automatically.
+
+---
+
+# 🎯 Focus Areas
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Development
+
+* Frontend Applications
+* Backend APIs
+* Full Stack Projects
+* System Design Basics
+
+</td>
+
+<td width="50%">
+
+### 🔐 Security
+
+* Cybersecurity Awareness
+* Secure Coding
+* Authentication Systems
+* Security Fundamentals
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Philosophy
+
+<div align="center">
+
+> "Technology becomes meaningful when it solves real problems, empowers people, and remains secure."
+
+</div>
+
+---
+
+# 👁️ Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=karthik-cyberexpert&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider following me and starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,100:6C63FF"/>
+
+</div>
